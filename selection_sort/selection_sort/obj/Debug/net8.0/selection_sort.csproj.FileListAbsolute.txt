@@ -1,0 +1,14 @@
+C:\Users\wikto\source\repos\selection_sort\selection_sort\bin\Debug\net8.0\selection_sort.exe
+C:\Users\wikto\source\repos\selection_sort\selection_sort\bin\Debug\net8.0\selection_sort.deps.json
+C:\Users\wikto\source\repos\selection_sort\selection_sort\bin\Debug\net8.0\selection_sort.runtimeconfig.json
+C:\Users\wikto\source\repos\selection_sort\selection_sort\bin\Debug\net8.0\selection_sort.dll
+C:\Users\wikto\source\repos\selection_sort\selection_sort\bin\Debug\net8.0\selection_sort.pdb
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\selection_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\selection_sort.AssemblyInfoInputs.cache
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\selection_sort.AssemblyInfo.cs
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\selection_sort.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\selection_sort.dll
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\refint\selection_sort.dll
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\selection_sort.pdb
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\selection_sort.genruntimeconfig.cache
+C:\Users\wikto\source\repos\selection_sort\selection_sort\obj\Debug\net8.0\ref\selection_sort.dll

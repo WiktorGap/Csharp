@@ -1,0 +1,11 @@
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\obj\Debug\ToDoApp_.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\obj\Debug\ToDoApp_.Form1.resources
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\obj\Debug\ToDoApp_.Properties.Resources.resources
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\obj\Debug\ToDoApp_.csproj.GenerateResource.cache
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\obj\Debug\ToDoApp_.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\bin\Debug\ToDoApp_.exe.config
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\bin\Debug\ToDoApp_.exe
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\bin\Debug\ToDoApp_.pdb
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\obj\Debug\ToDoApp_.exe
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\obj\Debug\ToDoApp_.pdb
+C:\Users\wikto\source\repos\ToDoApp_\ToDoApp_\obj\Debug\PictureViewer.Form1.resources

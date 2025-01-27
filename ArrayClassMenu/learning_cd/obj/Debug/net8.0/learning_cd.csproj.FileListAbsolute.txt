@@ -1,0 +1,14 @@
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\learning_cd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\learning_cd.AssemblyInfoInputs.cache
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\learning_cd.AssemblyInfo.cs
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\learning_cd.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\learning_cd\learning_cd\bin\Debug\net8.0\learning_cd.exe
+C:\Users\wikto\source\repos\learning_cd\learning_cd\bin\Debug\net8.0\learning_cd.deps.json
+C:\Users\wikto\source\repos\learning_cd\learning_cd\bin\Debug\net8.0\learning_cd.runtimeconfig.json
+C:\Users\wikto\source\repos\learning_cd\learning_cd\bin\Debug\net8.0\learning_cd.dll
+C:\Users\wikto\source\repos\learning_cd\learning_cd\bin\Debug\net8.0\learning_cd.pdb
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\learning_cd.dll
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\refint\learning_cd.dll
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\learning_cd.pdb
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\learning_cd.genruntimeconfig.cache
+C:\Users\wikto\source\repos\learning_cd\learning_cd\obj\Debug\net8.0\ref\learning_cd.dll

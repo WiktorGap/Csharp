@@ -1,0 +1,14 @@
+C:\Users\wikto\source\repos\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\wikto\source\repos\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\wikto\source\repos\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\wikto\source\repos\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\wikto\source\repos\Interfaces\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\wikto\source\repos\Interfaces\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

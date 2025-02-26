@@ -1,0 +1,10 @@
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\bin\Debug\StandardUsrDesktopApp.exe.config
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\bin\Debug\StandardUsrDesktopApp.exe
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\bin\Debug\StandardUsrDesktopApp.pdb
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\obj\Debug\StandardUsrDesktopApp.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\obj\Debug\StandardUsrDesktopApp.mainFrame.resources
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\obj\Debug\StandardUsrDesktopApp.Properties.Resources.resources
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\obj\Debug\StandardUsrDesktopApp.csproj.GenerateResource.cache
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\obj\Debug\StandardUsrDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\obj\Debug\StandardUsrDesktopApp.exe
+C:\Users\wikto\source\repos\StandardUsrDesktopApp\StandardUsrDesktopApp\obj\Debug\StandardUsrDesktopApp.pdb

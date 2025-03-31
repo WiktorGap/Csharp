@@ -1,0 +1,21 @@
+C:\Users\demo\source\repos\19.03 project\19.03 project\bin\Debug\19.03 project.exe.config
+C:\Users\demo\source\repos\19.03 project\19.03 project\bin\Debug\19.03 project.exe
+C:\Users\demo\source\repos\19.03 project\19.03 project\bin\Debug\19.03 project.pdb
+C:\Users\demo\source\repos\19.03 project\19.03 project\obj\Debug\19.03 project.csproj.AssemblyReference.cache
+C:\Users\demo\source\repos\19.03 project\19.03 project\obj\Debug\19.03 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\demo\source\repos\19.03 project\19.03 project\obj\Debug\_19._03_project.Form1.resources
+C:\Users\demo\source\repos\19.03 project\19.03 project\obj\Debug\_19._03_project.Properties.Resources.resources
+C:\Users\demo\source\repos\19.03 project\19.03 project\obj\Debug\19.03 project.csproj.GenerateResource.cache
+C:\Users\demo\source\repos\19.03 project\19.03 project\obj\Debug\19.03 project.csproj.CoreCompileInputs.cache
+C:\Users\demo\source\repos\19.03 project\19.03 project\obj\Debug\19.03 project.exe
+C:\Users\demo\source\repos\19.03 project\19.03 project\obj\Debug\19.03 project.pdb
+C:\Users\wikto\Desktop\19.03 project\19.03 project\bin\Debug\19.03 project.exe.config
+C:\Users\wikto\Desktop\19.03 project\19.03 project\bin\Debug\19.03 project.exe
+C:\Users\wikto\Desktop\19.03 project\19.03 project\bin\Debug\19.03 project.pdb
+C:\Users\wikto\Desktop\19.03 project\19.03 project\obj\Debug\19.03 project.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\19.03 project\19.03 project\obj\Debug\_19._03_project.Form1.resources
+C:\Users\wikto\Desktop\19.03 project\19.03 project\obj\Debug\_19._03_project.Properties.Resources.resources
+C:\Users\wikto\Desktop\19.03 project\19.03 project\obj\Debug\19.03 project.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\19.03 project\19.03 project\obj\Debug\19.03 project.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\19.03 project\19.03 project\obj\Debug\19.03 project.exe
+C:\Users\wikto\Desktop\19.03 project\19.03 project\obj\Debug\19.03 project.pdb

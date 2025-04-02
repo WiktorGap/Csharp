@@ -1,0 +1,10 @@
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\bin\Debug\validPeselApp.exe.config
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\bin\Debug\validPeselApp.exe
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\bin\Debug\validPeselApp.pdb
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\obj\Debug\validPeselApp.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\obj\Debug\validPeselApp.Form1.resources
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\obj\Debug\validPeselApp.Properties.Resources.resources
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\obj\Debug\validPeselApp.csproj.GenerateResource.cache
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\obj\Debug\validPeselApp.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\obj\Debug\validPeselApp.exe
+C:\Users\wikto\source\repos\validPeselApp\validPeselApp\obj\Debug\validPeselApp.pdb

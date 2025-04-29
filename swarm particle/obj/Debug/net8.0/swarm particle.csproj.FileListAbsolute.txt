@@ -1,0 +1,14 @@
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\swarm particle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\swarm particle.AssemblyInfoInputs.cache
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\swarm particle.AssemblyInfo.cs
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\swarm particle.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\swarm particle\bin\Debug\net8.0\swarm particle.exe
+C:\Users\wikto\source\repos\swarm particle\bin\Debug\net8.0\swarm particle.deps.json
+C:\Users\wikto\source\repos\swarm particle\bin\Debug\net8.0\swarm particle.runtimeconfig.json
+C:\Users\wikto\source\repos\swarm particle\bin\Debug\net8.0\swarm particle.dll
+C:\Users\wikto\source\repos\swarm particle\bin\Debug\net8.0\swarm particle.pdb
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\swarm particle.dll
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\refint\swarm particle.dll
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\swarm particle.pdb
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\swarm particle.genruntimeconfig.cache
+C:\Users\wikto\source\repos\swarm particle\obj\Debug\net8.0\ref\swarm particle.dll

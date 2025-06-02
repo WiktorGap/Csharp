@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\Desktop\\system_with_db\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|c:\\users\\wikto\\desktop\\system_with_db\\system_with_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|c:\\users\\wikto\\desktop\\system_with_db\\system_with_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|c:\\users\\wikto\\desktop\\system_with_db\\system_with_db\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|c:\\users\\wikto\\desktop\\system_with_db\\system_with_db\\users_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\users_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_WIKTO_SOURCE_REPOS_SYSTEM_WITH_DB_SYSTEM_WITH_DB_USERS.MDF/True/SqlTable/dbo.Logs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\usersDataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\usersDataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\users.mdf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\users.mdf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E0695C7-5574-4A53-8687-258EF7997DB8}|system_with_db\\system_with_db.csproj|solutionrelative:system_with_db\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\Form1.cs",
+              "RelativeDocumentMoniker": "system_with_db\\Form1.cs",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\Form1.cs",
+              "RelativeToolTip": "system_with_db\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:04:55.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\Form1.cs",
+              "RelativeDocumentMoniker": "system_with_db\\Form1.cs",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\Form1.cs [Projekt]",
+              "RelativeToolTip": "system_with_db\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:04:52.109Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\Menu.cs",
+              "RelativeDocumentMoniker": "system_with_db\\Menu.cs",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\Menu.cs",
+              "RelativeToolTip": "system_with_db\\Menu.cs",
+              "ViewState": "AgIAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:04:02.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "users_log.ldf",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\users_log.ldf",
+              "RelativeDocumentMoniker": "system_with_db\\users_log.ldf",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\users_log.ldf",
+              "RelativeToolTip": "system_with_db\\users_log.ldf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANwSURBVDhPrZPLT5xVGMZ/53zfN9wGBmZwwpRLsYC0qBgTDaLRNIY0xjaNJmpcqAtXujRxqf\u002BDe01M124aL23ipZomRkwxjQINJIUCMwMdKDD3\u002BW7nHBfDEJiiG32SN3nz5j3Pe3sO/J8wxjSH/jMEwLtvvfRxKtk9GAaB8WqubJRRLUMibB04/qIJjmNx58\u002B5mzd/uvYVgH1x5ul33rz8/AejI33DUgrjuloKAfg53MAWu8EgO/pJRodP4dg2AAaDMWAMLK2ss7mVA6gTfvrR6192xLpkMhUXsUQcY8eQQiCKc\u002BTv3sCsz7Ntn2FyNIkyEs9XaK3RRtDZHuGb6z9y\u002B687hx3bueyWfOFciu7eBNhRELJeOjbFVvw5dFs3b597FMexufrzKgurewS\u002BwnEs3rs0QfMV7HKpipubE54YRHYMIlpioELscJNkYY5yxuLbzfd55fwzTD\u002BVYmI0gQoNxgg62iI031WGShFW7hNWsoS1HZSXJ6xt4\u002B0tU3Zb0dFJBlKPIKUkt1vjXrbIaqbA2mYR11PoZkIMoENQHka5oFxMWEGHHj4xaB2gJxbFICiUPbb3atzfq7G9X8UL1EPSk/WABcIBaYGwENIiEu0hKW8hM5/zy\u002Bw8VdfjibEEM1NDXJg\u002BzflnB4lEbLQ\u002BxkddByfALe6zwSWCsZd5bWSM1pZWfvhtneWNPL6vsG2Liy\u002BOPHSUQxGLhsoBMETaO0kyi539gl9vLVB1fXp72hkZ6ObscJzHhrqRljxphwbEgR2BViE\u002BMXRLP12dUbSGVG\u002BU8dMJxk4nODMQR0rrhB1CQ/uYgwEMENQqrFcfZ03PIKRgYekeK2vrpLNpNjJp1tJpFpdX2M8XjxHadSE17Di2ttJcm7vO2kYGAKUFgcILlfGO5mkVug3/H48CMJ36g4mpLNWzu/ihYDHTx9ezwZUbtx98djRPBd5\u002Bw5daI4ym/t0OupQIENDpVOjr2KW/K08qmqerRSFCb8\u002Br5JeOWujXcoeEgCiVSpTKNTw3QKsArULCUBOE4AeSqu9Q9QS\u002BctD/PhTW5PipVztbC7FARaya36JdT4tSoUx\u002BZ5fCbp58wTN7RSvcrzhyabP97vxq9fvMdmmumagBAfDJhxd\u002B7\u002B9hvFataV\u002B1dVEfXgBY\u002BF6EStmnPX7lu8U3FlcfXG0mOYq/AbeYvk6Pv10MAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-02T15:03:09.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "usersDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\usersDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "system_with_db\\usersDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\usersDataSet.Designer.cs",
+              "RelativeToolTip": "system_with_db\\usersDataSet.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:02:57.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "users.mdf",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\users.mdf",
+              "RelativeDocumentMoniker": "system_with_db\\users.mdf",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\users.mdf",
+              "RelativeToolTip": "system_with_db\\users.mdf",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000415|",
+              "WhenOpened": "2025-06-02T15:02:53.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "details.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\details.cs",
+              "RelativeDocumentMoniker": "system_with_db\\details.cs",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\details.cs",
+              "RelativeToolTip": "system_with_db\\details.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:53:30.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "details.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\details.cs",
+              "RelativeDocumentMoniker": "system_with_db\\details.cs",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\details.cs [Projekt]",
+              "RelativeToolTip": "system_with_db\\details.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:53:27.559Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tools.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\tools.cs",
+              "RelativeDocumentMoniker": "system_with_db\\tools.cs",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\tools.cs",
+              "RelativeToolTip": "system_with_db\\tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:52:53.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tools.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\tools.cs",
+              "RelativeDocumentMoniker": "system_with_db\\tools.cs",
+              "ToolTip": "C:\\Users\\wikto\\Desktop\\system_with_db\\system_with_db\\tools.cs [Projekt]",
+              "RelativeToolTip": "system_with_db\\tools.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:52:49.126Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Logs.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_WIKTO_SOURCE_REPOS_SYSTEM_WITH_DB_SYSTEM_WITH_DB_USERS.MDF/True/SqlTable/dbo.Logs.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_WIKTO_SOURCE_REPOS_SYSTEM_WITH_DB_SYSTEM_WITH_DB_USERS.MDF/True/SqlTable/dbo.Logs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-02T09:49:30.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
